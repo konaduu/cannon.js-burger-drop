@@ -9,6 +9,7 @@ import { Sky } from 'three/examples/jsm/objects/Sky.js'
 /**
  * Base
  */
+
 // Debug
 const gui = new GUI()
 const debugObject = {}
